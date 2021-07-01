@@ -2,6 +2,7 @@
 
 # Hello World! I'm [Miguel Garcia](https://github.com/miguelgarcia210)&nbsp;<img width="30px" src="assets/waving-hand.gif">
 <hr/>
+
 ## About Me&nbsp;📝
 
 I'm a *Software Developer*&nbsp;👨‍💻
