@@ -1,0 +1,7 @@
+Listed below are some resources utilized during the curation of my profile's README.
+Hope this helps all who are interested.
+
+1. https://shields.io
+2. https://simpleicons.org
+3. https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+4. https://gist.github.com/apaskulin/1ad686e42c7165cb9c22f9fe1e389558#file-advanced-formatting-github-markdown-md
