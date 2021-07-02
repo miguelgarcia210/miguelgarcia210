@@ -5,3 +5,6 @@ Hope this helps all who are interested.
 2. https://simpleicons.org
 3. https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 4. https://gist.github.com/apaskulin/1ad686e42c7165cb9c22f9fe1e389558#file-advanced-formatting-github-markdown-md
+5. https://github.com/anuraghazra/github-readme-stats
+6. https://github.com/JeffreyCA/spotify-recently-played-readme/blob/master/README.md#link-to-spotify-profile
+7. https://gist.github.com/rxaviers/7360908
