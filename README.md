@@ -121,15 +121,12 @@ I'm a *Software Developer*&nbsp;👨‍💻
 
 </div>
 
-<div align="center">
+<!-- Latest snippet from Novatorem README -->
+[![Spotify](https://novatorem-miguelgarcia210.vercel.app/api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
 
-<!-- Latest snippet from Novatorem README !working -->
-<!-- [![Spotify](https://https://novatorem-miguelgarcia210.vercel.app//api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib) -->
+<!-- Older snippet from Novatorem README -->
+<!-- [<img src="https://novatorem-miguelgarcia210.vercel.app/api/spotify" alt="miguelgarcia Spotify Playing" width="350" />](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib) -->
 
-<!-- Older snippet from Novatorem README working -->
-[<img src="https://novatorem-miguelgarcia210.vercel.app/api/spotify" alt="miguelgarcia Spotify Playing" width="350" />](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
-
-</div>
 <!--
 **miguelgarcia210/miguelgarcia210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
