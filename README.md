@@ -1,4 +1,6 @@
- <details>
+ <a name="summit"></a>
+
+<details>
  <summary><samp><ins>Welcome ASCII</ins></samp></summary>
 
            ____________________________________________
@@ -25,8 +27,6 @@
  
  </details>
  <br>
- 
- <a name="summit"></a>
 
 # Hello World! I'm [Miguel Garcia](https://github.com/miguelgarcia210)&nbsp;<img src="assets/waving-hand.gif" width="30px" alt="hi">
 
