@@ -121,27 +121,27 @@ I'm a *Software Developer*&nbsp;👨‍💻
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
 <!-- Latest snippet from Novatorem README -->
-[![Spotify](https://novatorem-miguelgarcia210.vercel.app/api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
+&nbsp; <br> [![Spotify Now Playing](https://novatorem-miguelgarcia210.vercel.app/api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
 
 <!-- Older snippet from Novatorem README -->
 <!-- [<img src="https://novatorem-miguelgarcia210.vercel.app/api/spotify" alt="miguelgarcia Spotify Playing" width="350" />](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib) -->
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5)
-
-<table>
-<tr>
-<td width="50%">
-
-&nbsp; <br> [![Spotify Now Playing](https://novatorem-miguelgarcia210.vercel.app/api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
-
 </td>
-<td width="50%">
+<td width="40%">
 
-&nbsp; <br> ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5)
+&nbsp; <br> ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5&width=300)
 
 </td>
 </table>
+ 
+ </div>
 
 <!--
 **miguelgarcia210/miguelgarcia210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
