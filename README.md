@@ -127,6 +127,8 @@ I'm a *Software Developer*&nbsp;👨‍💻
 <!-- Older snippet from Novatorem README -->
 <!-- [<img src="https://novatorem-miguelgarcia210.vercel.app/api/spotify" alt="miguelgarcia Spotify Playing" width="350" />](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib) -->
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5)
+
 <!--
 **miguelgarcia210/miguelgarcia210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
