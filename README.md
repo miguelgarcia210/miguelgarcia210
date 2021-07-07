@@ -53,7 +53,7 @@ I'm a *Software Developer*&nbsp;👨‍💻
 
 [![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=F5F5DC&logo=HTML5&logoColor=E34F26)](#) [![JavaScript Badge](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&labelColor=F5F5DC&logo=javascript&logoColor=F0DB4F)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=F5F5DC&logo=css3&logoColor=1572B6)](#) [![Java Badge](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=F5F5DC&logo=java&logoColor=007396)](#)
 
-[![jQuery Badge](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&labelColor=F5F5DC&logo=jquery&logoColor=0769AD)](#) [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=F5F5DC&logo=bootstrap&logoColor=7952B3)](#)
+[![jQuery Badge](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&labelColor=F5F5DC&logo=jquery&logoColor=0769AD)](#) [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=F5F5DC&logo=bootstrap&logoColor=7952B3)](#) [![NPM Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=F5F5DC&logo=npm&logoColor=CB3837)](#) [![Node.js Badge](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&labelColor=F5F5DC&logo=nodedotjs&logoColor=339933)](#)
 
 <details open>
 <br>
