@@ -11,11 +11,11 @@
         |   | Hello World!                           |   |
         |   |                                        |   |
         |   |                                        |   |
-        |   | Welcome to my GitHub.                  |   |
+        |   | Welcome to "My Space".                 |   |
         |   |                                        |   |
         |   |                                        |   |
         |   |                                        |   |
-        |   |                                        |   |
+        |   |                      powered by GitHub |   |
         |   |________________________________________|   |
         |                                                |
          \______________________________________________/
@@ -24,6 +24,8 @@
           _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
        _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
     _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+ 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=miguelgarcia210.miguelgarcia210)
  
  </details>
  <br>
@@ -164,6 +166,8 @@ I'm a *Software Developer*&nbsp;👨‍💻
 </td>
 <td width="40%">
 
+<!-- For custom count (1 ≤ {count} ≤ 10) -->
+<!-- For custom width (300 ≤ {width} ≤ 1000) -->
 &nbsp; <br> ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5&width=300)
 
 </td>
