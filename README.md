@@ -30,7 +30,7 @@
  </details>
  <br>
 
-# Hello World! I'm [Miguel Garcia](https://github.com/miguelgarcia210)&nbsp;<img src="assets/waving-hand.gif" width="30px" alt="hi">
+# Hello World! I'm [Miguel Garcia](https://github.com/miguelgarcia210)&nbsp;<img src="assets/waving-hand.gif" width="20px" alt="hi">
 
 ## About Me&nbsp;📝
 
