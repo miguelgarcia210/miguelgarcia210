@@ -37,12 +37,13 @@
 I'm a *Software Developer*&nbsp;👨‍💻
 
 - 🔭&nbsp;I enjoy exploring new technologies and developing software solutions to contemporary issues
-- ✍️&nbsp;I'm currently working on small projects TBA
-- 🌱&nbsp;I’m currently learning Angular & TypeScript
+- ✍️&nbsp;I'm currently working on small projects during spare time
+- 🌱&nbsp;I’m currently furthering my skills in Javascript and React
 - ⏳&nbsp;In my free time I:
     - 📚&nbsp;Pursue developmental training to advance my programming knowledge
+      - includes a multitude of open tabs 😅 
     - 🤟&nbsp;Spend time with family and friends
-    - 🐈&nbsp;Play around with my two cats
+    - 🐈&nbsp;Play around with my pets
     - 💪&nbsp;Try to exercise to maintain good health
     - 💤&nbsp;Rest in the patio to clear my mentality&nbsp;🧠
 - 💭&nbsp;Ask me about my hands free shoes&nbsp;👟
