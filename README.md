@@ -176,7 +176,7 @@ I'm a *Software Developer*&nbsp;👨‍💻
  
  </div>
  
- [![@miguelgarcia210's Holopin board](https://holopin.io/api/user/board?user=miguelgarcia210)](https://holopin.io/@miguelgarcia210)
+ [![An image of @miguelgarcia210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miguelgarcia210)](https://holopin.io/@miguelgarcia210)
 
 <!--
 **miguelgarcia210/miguelgarcia210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
