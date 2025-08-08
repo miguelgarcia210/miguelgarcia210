@@ -1,32 +1,48 @@
- <a name="summit"></a>
+<a name="summit"></a>
 
 <details>
- <summary><samp><ins>Welcome ASCII</ins></samp></summary>
+  <summary><samp><ins>Welcome ASCII</ins></samp></summary>
 
-           ____________________________________________
-         /                                              \
-        |    ________________________________________    |
-        |   |                                        |   |
-        |   | C:\src> java -classpath . HelloWorld   |   |
-        |   | Hello World!                           |   |
-        |   |                                        |   |
-        |   |                                        |   |
-        |   | Welcome to "My Space".                 |   |
-        |   |                                        |   |
-        |   |                                        |   |
-        |   |                                        |   |
-        |   |                      powered by GitHub |   |
-        |   |________________________________________|   |
-        |                                                |
-         \______________________________________________/
-            \________________________________________/
-             ___________________________________________
-          _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
-       _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
-    _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
- 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=miguelgarcia210.miguelgarcia210)
- 
+  ```
+
+  ███╗   ███╗██╗ ██████╗ ██╗   ██╗███████╗██╗     ███████╗    ██████╗ ███████╗██╗   ██╗
+  ████╗ ████║██║██╔════╝ ██║   ██║██╔════╝██║     ██╔════╝    ██╔══██╗██╔════╝██║   ██║
+  ██╔████╔██║██║██║  ███╗██║   ██║█████╗  ██║     ███████╗    ██║  ██║█████╗  ██║   ██║
+  ██║╚██╔╝██║██║██║   ██║██║   ██║██╔══╝  ██║     ╚════██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██║ ╚═╝ ██║██║╚██████╔╝╚██████╔╝███████╗███████╗███████║    ██████╔╝███████╗ ╚████╔╝ 
+  ╚═╝     ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
+
+  ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗                         
+  ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║                         
+     ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║                         
+     ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║                         
+     ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗                    
+     ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝                    
+
+
+             ________________________________________
+           /                                          \
+          |    ____________________________________    |
+          |   |                                    |   |
+          |   | C:\grid> execute user_program      |   |
+          |   | Greetings, program.                |   |
+          |   |                                    |   |
+          |   | Sector: The Grid                   |   |
+          |   | Identity Disc: Linked              |   |
+          |   | Memory Sync: 99.8% Integrity       |   |
+          |   | User Status: Recognized            |   |
+          |   | Launching Lightcycle OS...         |   |
+          |   | Connection to MCP stable           |   |
+          |   | End of line.                       |   |
+          |   |____________________________________|   |
+          |                                            |
+           \__________________________________________/
+              \____________________________________/
+               _______________________________________
+            _-' .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-. --- `-_
+         _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+      _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+  ```
  </details>
  <br>
 
@@ -50,90 +66,200 @@ I'm a *Software Developer*&nbsp;👨‍💻
 - ⚡&nbsp;Fun fact: My favorite band is ***The Killers***&nbsp;⚡️
 - 📫&nbsp;You can reach me by email
 
-### 💬&nbsp;Languages & Tools&nbsp;🧰
+---
 
-[![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=F5F5DC&logo=HTML5&logoColor=E34F26)](#) [![JavaScript Badge](https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&labelColor=F5F5DC&logo=javascript&logoColor=F0DB4F)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=F5F5DC&logo=css3&logoColor=1572B6)](#) [![Java Badge](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=F5F5DC&logo=java&logoColor=007396)](#)
+## Tools & Technologies
 
-[![jQuery Badge](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&labelColor=F5F5DC&logo=jquery&logoColor=0769AD)](#) [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=F5F5DC&logo=bootstrap&logoColor=7952B3)](#) [![NPM Badge](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&labelColor=F5F5DC&logo=npm&logoColor=CB3837)](#) [![Node.js Badge](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&labelColor=F5F5DC&logo=nodedotjs&logoColor=339933)](#)
+*These are tools and technologies I have worked with and am familiar with.*
 
-<details open>
-<br>
-<summary><samp>Skills in development</samp></summary>
+<details>
+  <br>
+  <summary>
+    <strong>🧰 Languages</strong>
+  </summary>
 
-[![Angular Badge](https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&labelColor=F5F5DC&logo=angular&logoColor=DD0031)](#) [![TypeScript Badge](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&labelColor=F5F5DC&logo=typescript&logoColor=3178C6)](#) [![CSharp Badge](https://img.shields.io/badge/-csharp-239120?style=for-the-badge&labelColor=F5F5DC&logo=csharp&logoColor=239120)](#)
-
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![YAML](https://img.shields.io/badge/YAML-1F3A3D?style=for-the-badge&logo=yaml&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>IDEs/Text Editors</samp></summary>
+  <br>
+  <summary>
+    <strong>🧱 Libraries & Frameworks</strong>
+  </summary>
 
-[![IntelliJ IDEA Badge](https://img.shields.io/badge/-intellij%20idea-000000?style=for-the-badge&labelColor=F5F5DC&logo=intellijidea&logoColor=000000)](#) [![Visual Studio Code Badge](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&labelColor=F5F5DC&logo=visualstudiocode&logoColor=007ACC)](#) [![Visual Studio Badge](https://img.shields.io/badge/-visual%20studio-5C2D91?style=for-the-badge&labelColor=F5F5DC&logo=visualstudio&logoColor=5C2D91)](#) [![Sublime Text Badge](https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&labelColor=F5F5DC&logo=sublimetext&logoColor=FF9800)](#) [![Notepad++ Badge](https://img.shields.io/badge/-notepad++-90E59A?style=for-the-badge&labelColor=F5F5DC&logo=notepadplusplus&logoColor=90E59A)](#)
+  **Libraries**
 
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+  **Frameworks**
+
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>Version Control/Terminals</samp></summary>
+  <br>
+  <summary>
+    <strong>📦 Build & Deployment Tools</strong>
+  </summary>
 
-[![Git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=F5F5DC&logo=git&logoColor=F05032)](#) [![GitHub Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=F5F5DC&logo=github&logoColor=181717)](#) [![Git Extensions Badge](https://img.shields.io/badge/-git%20extensions-212121?style=for-the-badge&labelColor=F5F5DC&logo=gitextensions&logoColor=212121)](#) [![Bitbucket Badge](https://img.shields.io/badge/-bitbucket-0052CC?style=for-the-badge&labelColor=F5F5DC&logo=bitbucket&logoColor=0052CC)](#) 
-<!-- Badge not diplayed: badge not yet implemented on simpleicons --> 
-[![Git Bash Badge](https://img.shields.io/badge/-gitbash-7BC64D?style=for-the-badge&labelColor=F5F5DC&logo=gitbash&logoColor=7BC64D)](#) [![Windows Terminal Badge](https://img.shields.io/badge/-terminal-4D4D4D?style=for-the-badge&labelColor=F5F5DC&logo=windowsterminal&logoColor=4D4D4D)](#) [![PowerShell Badge](https://img.shields.io/badge/-powershell-5391FE?style=for-the-badge&labelColor=F5F5DC&logo=powershell&logoColor=5391FE)](#)
+  **Package Managers**
 
+  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+  **Runtimes**
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+  **Artifact Repositories**
+
+  ![JFrog Artifactory](https://img.shields.io/badge/Artifactory-0052CC?style=for-the-badge&logo=jfrog&logoColor=white)
+
+  **Containerization**
+
+  ![Podman](https://img.shields.io/badge/Podman-FF0000?style=for-the-badge&logo=podman&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>RDBMSs</samp></summary>
+  <br>
+  <summary>
+    <strong>🧠 IDEs & Text Editors</strong>
+  </summary>
 
-[![MySQL Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=F5F5DC&logo=mysql&logoColor=4479A1)](#) [![Microsoft SQL Server Badge](https://img.shields.io/badge/-microsoft%20sql%20server-CC2927?style=for-the-badge&labelColor=F5F5DC&logo=microsoftsqlserver&logoColor=CC2927)](#) <!-- Badge not diplayed: badge not yet implemented on simpleicons --> [![Microsoft SQL Server Management Studio Badge](https://img.shields.io/badge/-mssms-FFD700?style=for-the-badge&labelColor=F5F5DC&logo=mssms&logoColor=FFD700)](#)
-
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+  ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>Test Case Management</samp></summary>
-<!-- Badge not diplayed: badge not yet implemented on simpleicons -->
+  <br>
+  <summary>
+    <strong>🔧 Version Control & Utilities</strong>
+  </summary>
 
-[![TestRail Badge](https://img.shields.io/badge/-testrail-80BD5B?style=for-the-badge&labelColor=F5F5DC&logo=testrail&logoColor=80BD5B)](#)
+  **Version Control Tools**
 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+  **Version Control Utilities**
+
+  ![Git Extensions](https://img.shields.io/badge/Git%20Extensions-212121?style=for-the-badge&logoColor=white)
+  ![Git Bash](https://img.shields.io/badge/Git%20Bash-7BC64D?style=for-the-badge&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>Project Management</samp></summary>
+  <br>
+  <summary>
+    <strong>💻 Terminals & Shells</strong>
+  </summary>
 
-[![Jira Badge](https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&labelColor=F5F5DC&logo=jira&logoColor=0052CC)](#) [![Asana Badge](https://img.shields.io/badge/-asana-EB7E73?style=for-the-badge&labelColor=F5F5DC&logo=asana&logoColor=EB7E73)](#)
-
+  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>Microsoft Applications</samp></summary>
+  <br>
+  <summary>
+    <strong>🗄️Databases</strong>
+  </summary>
 
-[![Microsoft Office Badge](https://img.shields.io/badge/-microsoft%20office-D83B01?style=for-the-badge&labelColor=F5F5DC&logo=microsoftoffice&logoColor=D83B01)](#) [![Microsoft Teams Badge](https://img.shields.io/badge/-microsoft%20teams-6264A7?style=for-the-badge&labelColor=F5F5DC&logo=microsoftteams&logoColor=6264A7)](#)
-
-<details>
-<br>
-<summary><samp>Office Applications</samp></summary>
-
-[![Microsoft Word Badge](https://img.shields.io/badge/-microsoft%20word-2B579A?style=for-the-badge&labelColor=F5F5DC&logo=microsoftword&logoColor=2B579A)](#) [![Microsoft Excel Badge](https://img.shields.io/badge/-microsoft%20excel-217346?style=for-the-badge&labelColor=F5F5DC&logo=microsoftexcel&logoColor=217346)](#) [![Microsoft PowerPoint Badge](https://img.shields.io/badge/-microsoft%20powerpoint-B7472A?style=for-the-badge&labelColor=F5F5DC&logo=microsoftpowerpoint&logoColor=B7472A)](#) [![Microsoft OneNote Badge](https://img.shields.io/badge/-microsoft%20onenote-7719AA?style=for-the-badge&labelColor=F5F5DC&logo=microsoftonenote&logoColor=7719AA)](#) [![Microsoft Outlook Badge](https://img.shields.io/badge/-microsoft%20outlook-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftoutlook&logoColor=0078D4)](#) [![Microsoft SharePoint Badge](https://img.shields.io/badge/-microsoft%20sharepoint-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftsharepoint&logoColor=0078D4)](#) [![Microsoft OneDrive Badge](https://img.shields.io/badge/-microsoft%20onedrive-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftonedrive&logoColor=0078D4)](#)
-
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![SSMS](https://img.shields.io/badge/SSMS-FFD700?style=for-the-badge&logoColor=black)
+  ![SQuirreL SQL](https://img.shields.io/badge/SQuirreL%20SQL-000000?style=for-the-badge&logo=squirrel-sql&logoColor=white)
 </details>
 
 <details>
-<br>
-<summary><samp>Other</samp></summary>
+  <br>
+  <summary>
+    <strong>🧪 Testing Tools</strong>
+  </summary>
 
-<!-- Badge not diplayed: badge not yet implemented on simpleicons -->
-[![eOne SmartConnect Badge](https://img.shields.io/badge/-smartconnect-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=smartconnect&logoColor=0078D4)](#) [![Postman Badge](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&labelColor=F5F5DC&logo=postman&logoColor=FF6C37)](#) [![Adobe PhotoShop Badge](https://img.shields.io/badge/-adobe%20photoshop-31A8FF?style=for-the-badge&labelColor=F5F5DC&logo=adobephotoshop&logoColor=31A8FF)](#) [![Zoom Badge](https://img.shields.io/badge/-zoom-2D8CFF?style=for-the-badge&labelColor=F5F5DC&logo=zoom&logoColor=2D8CFF)](#) <!-- Badge not diplayed: badge not yet implemented on simpleicons --> [![Webex Badge](https://img.shields.io/badge/-webex-53A37D?style=for-the-badge&labelColor=F5F5DC&logo=webex&logoColor=53A37D)](#)
+  **Test Management Tools**
 
+  ![TestRail](https://img.shields.io/badge/TestRail-80BD5B?style=for-the-badge&labelColor=F5F5DC)
+  ![SmartConnect](https://img.shields.io/badge/SmartConnect-0078D4?style=for-the-badge&labelColor=F5F5DC)
+  ![qTest](https://img.shields.io/badge/qTest-FF6C37?style=for-the-badge&labelColor=F5F5DC)
+
+  **Testing Frameworks**
+
+  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&labelColor=F5F5DC)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=F5F5DC)
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&labelColor=F5F5DC)
+  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&labelColor=F5F5DC)
+  ![BlazeMeter](https://img.shields.io/badge/BlazeMeter-FF6C37?style=for-the-badge&labelColor=F5F5DC)
+
+  **API Testing**
+
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=swagger&logoColor=white)
+  ![Open API](https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&labelColor=F5F5DC&logo=openapi&logoColor=black)
 </details>
 
-<!-- Closes Microsoft Applications -->
-<!-- </details>
-<br> -->
+<details>
+  <br>
+  <summary>
+    <strong>📊 Project Management & Collaboration</strong>
+  </summary>
+
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Asana](https://img.shields.io/badge/Asana-EB7E73?style=for-the-badge&logo=asana&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&labelColor=F5F5DC&logo=servicenow&logoColor=white)
+</details>
+
+<details>
+  <br>
+  <summary>
+    <strong>🧰 Microsoft Tools</strong>
+  </summary>
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&labelColor=F5F5DC&logo=microsoftoffice&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&labelColor=F5F5DC&logo=microsoftteams&logoColor=purple)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&labelColor=F5F5DC&logo=microsoftword&logoColor=blue)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&labelColor=F5F5DC&logo=microsoftexcel&logoColor=green)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&labelColor=F5F5DC&logo=microsoftpowerpoint&logoColor=orange)
+![Microsoft OneNote](https://img.shields.io/badge/Microsoft%20OneNote-7719AA?style=for-the-badge&labelColor=F5F5DC&logo=microsoftonenote&logoColor=purple)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftoutlook&logoColor=blue)
+![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftsharepoint&logoColor=teal)
+![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?style=for-the-badge&labelColor=F5F5DC&logo=microsoftonedrive&logoColor=blue)
+</details>
+
+<details>
+  <br>
+  <summary>
+    <strong>🎨 Design Tools</strong>
+  </summary>
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=F5F5DC&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</details>
+
+<details>
+  <br>
+  <summary>
+    <strong>📞 Communication Tools</strong>
+  </summary>
+
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Box](https://img.shields.io/badge/Box-2D8CFF?style=for-the-badge&logo=box&logoColor=blue)
+![Webex](https://img.shields.io/badge/Webex-53A37D?style=for-the-badge&logo=webex&logoColor=white)
+</details>
 
 <div align="center">
 
@@ -148,47 +274,8 @@ I'm a *Software Developer*&nbsp;👨‍💻
 
 <div align="center">
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgarcia210&hide=stars,contribs&show_icons=true&title_color=2990EA&icon_color=E1BB23&bg_color=2A3040&text_color=FFFFFF&border_color=4BCE3F&custom_title=Miguel's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgarcia210&hide=stars,contribs&show_icons=true&title_color=2990EA&icon_color=E1BB23&bg_color=2A3040&text_color=FFFFFF&border_color=4BCE3F&custom_title=Miguel's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="60%">
-
-<!-- Latest snippet from Novatorem README -->
-&nbsp; <br> [![Spotify Now Playing](https://novatorem-miguelgarcia210.vercel.app/api/spotify)](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib)
-
-<!-- Older snippet from Novatorem README -->
-<!-- [<img src="https://novatorem-miguelgarcia210.vercel.app/api/spotify" alt="miguelgarcia Spotify Playing" width="350" />](https://open.spotify.com/user/xhlo8t7hq42b1ldg086ue7dib) -->
-
-</td>
-<td width="40%">
-
-<!-- For custom count (1 ≤ {count} ≤ 10) -->
-<!-- For custom width (300 ≤ {width} ≤ 1000) -->
-&nbsp; <br> ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xhlo8t7hq42b1ldg086ue7dib&count=5&width=300)
-
-</td>
-</table>
- 
- </div>
  
  [![An image of @miguelgarcia210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miguelgarcia210)](https://holopin.io/@miguelgarcia210)
-
-<!--
-**miguelgarcia210/miguelgarcia210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
